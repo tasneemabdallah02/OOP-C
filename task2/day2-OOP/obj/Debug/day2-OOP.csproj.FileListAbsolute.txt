@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\OYIL\c#\OOP\day2-OOP\day2-OOP\bin\Debug\day2-OOP.exe.config
+C:\Users\hp\Desktop\OYIL\c#\OOP\day2-OOP\day2-OOP\bin\Debug\day2-OOP.exe
+C:\Users\hp\Desktop\OYIL\c#\OOP\day2-OOP\day2-OOP\bin\Debug\day2-OOP.pdb
+C:\Users\hp\Desktop\OYIL\c#\OOP\day2-OOP\day2-OOP\obj\Debug\day2-OOP.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OYIL\c#\OOP\day2-OOP\day2-OOP\obj\Debug\day2-OOP.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OYIL\c#\OOP\day2-OOP\day2-OOP\obj\Debug\day2-OOP.exe
+C:\Users\hp\Desktop\OYIL\c#\OOP\day2-OOP\day2-OOP\obj\Debug\day2-OOP.pdb
