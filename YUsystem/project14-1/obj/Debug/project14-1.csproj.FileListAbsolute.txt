@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\OYIL\c#\OOP\project14-1\project14-1\bin\Debug\project14-1.exe.config
+C:\Users\hp\Desktop\OYIL\c#\OOP\project14-1\project14-1\bin\Debug\project14-1.exe
+C:\Users\hp\Desktop\OYIL\c#\OOP\project14-1\project14-1\bin\Debug\project14-1.pdb
+C:\Users\hp\Desktop\OYIL\c#\OOP\project14-1\project14-1\obj\Debug\project14-1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\OYIL\c#\OOP\project14-1\project14-1\obj\Debug\project14-1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OYIL\c#\OOP\project14-1\project14-1\obj\Debug\project14-1.exe
+C:\Users\hp\Desktop\OYIL\c#\OOP\project14-1\project14-1\obj\Debug\project14-1.pdb
